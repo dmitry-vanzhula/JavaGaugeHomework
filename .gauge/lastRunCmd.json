@@ -1,0 +1,10 @@
+{
+	"Command": [
+		"D:\\gauge.exe",
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console",
+		"D:/JavaGaugeHomework/specs/Google search button.spec:8"
+	]
+}

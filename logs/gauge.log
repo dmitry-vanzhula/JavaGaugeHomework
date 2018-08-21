@@ -1,0 +1,58 @@
+10:47:57.013 Plugin java is already installed.
+10:47:57.019 Plugin html-report is already installed.
+10:47:57.866 Checking updates...
+10:47:59.878 [ValidationError] D:\JavaGaugeHomework\specs\Google search button.spec:10 Step implementation not found => 'Navigate to "https://www.google.com"'
+10:47:59.878 [ValidationError] D:\JavaGaugeHomework\specs\Google search button.spec:11 Step implementation not found => 'Verify the search button'
+10:48:00.140 Plugin [Html Report] with pid [7444] has exited
+10:48:00.241 Specifications:	0 executed	0 passed	0 failed	1 skipped
+10:48:00.241 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+10:48:00.241 
+Total time taken: 61ms
+10:48:19.083 Plugin java is already installed.
+10:48:19.085 Plugin html-report is already installed.
+10:48:19.809 Checking updates...
+10:48:22.012 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com>" > 
+10:48:22.012 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.com>" parameters:"https://www.google.com" > > 
+10:48:22.019 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify the search button" > 
+10:48:22.019 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify the search button" parameterizedStepValue:"Verify the search button" > > 
+10:49:09.473 Plugin [Html Report] with pid [1868] has exited
+10:49:09.789 Specifications:	0 executed	0 passed	0 failed	0 skipped
+10:49:09.789 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+10:49:09.789 
+Total time taken: 47.315s
+10:49:44.441 Plugin java is already installed.
+10:49:44.442 Plugin html-report is already installed.
+10:49:45.221 Checking updates...
+10:49:47.109 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com>" > 
+10:49:47.109 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.com>" parameters:"https://www.google.com" > > 
+10:49:47.117 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify the search button" > 
+10:49:47.118 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify the search button" parameterizedStepValue:"Verify the search button" > > 
+10:50:34.285 Plugin [Html Report] with pid [12720] has exited
+10:50:34.593 Specifications:	0 executed	0 passed	0 failed	0 skipped
+10:50:34.593 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+10:50:34.593 
+Total time taken: 47.03s
+10:50:58.498 Plugin java is already installed.
+10:50:58.499 Plugin html-report is already installed.
+10:50:59.276 Checking updates...
+10:51:01.261 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com>" > 
+10:51:01.261 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.com>" parameters:"https://www.google.com" > > 
+10:51:01.268 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify the search button" > 
+10:51:01.268 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify the search button" parameterizedStepValue:"Verify the search button" > > 
+10:51:07.659 Plugin [Html Report] with pid [12568] has exited
+10:51:08.061 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:51:08.061 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:51:08.061 
+Total time taken: 6.258s
+10:51:14.672 Plugin java is already installed.
+10:51:14.673 Plugin html-report is already installed.
+10:51:15.390 Checking updates...
+10:51:17.432 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.com>" > 
+10:51:17.432 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.com>" parameters:"https://www.google.com" > > 
+10:51:17.438 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify the search button" > 
+10:51:17.438 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify the search button" parameterizedStepValue:"Verify the search button" > > 
+10:51:23.504 Plugin [Html Report] with pid [9928] has exited
+10:51:23.906 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:51:23.906 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:51:23.906 
+Total time taken: 5.933s

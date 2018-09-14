@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a4a61-8cba-40f9-beb7-52e7b49f5861" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/../JavaGaugeHomework/out/" />
-    <ignored path="$PROJECT_DIR$/../JavaGaugeHomework/target/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +14,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Google search button.spec" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaGaugeHomework/specs/Google search button.spec">
+        <entry file="file://$PROJECT_DIR$/specs/Google search button.spec">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -23,7 +23,7 @@
         </entry>
       </file>
       <file leaf-file-name="default.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaGaugeHomework/env/default/default.properties">
+        <entry file="file://$PROJECT_DIR$/env/default/default.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
@@ -32,7 +32,7 @@
         </entry>
       </file>
       <file leaf-file-name="GooglePage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../JavaGaugeHomework/src/test/java/GooglePage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/GooglePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
@@ -58,10 +58,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../JavaGaugeHomework/pom.xml" />
-        <option value="$PROJECT_DIR$/../JavaGaugeHomework/specs/Google search button.spec" />
-        <option value="$PROJECT_DIR$/../JavaGaugeHomework/src/test/java/GooglePage.java" />
-        <option value="$PROJECT_DIR$/../JavaGaugeHomework/env/default/default.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/specs/Google search button.spec" />
+        <option value="$PROJECT_DIR$/src/test/java/GooglePage.java" />
+        <option value="$PROJECT_DIR$/env/default/default.properties" />
       </list>
     </option>
   </component>
@@ -189,7 +189,7 @@
     </configuration>
     <configuration name="Verify the search button" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
       <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/../JavaGaugeHomework/specs/Google search button.spec:8" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/Google search button.spec:8" />
       <setting name="tags" value="" />
       <setting name="parallelNodes" value="" />
       <setting name="execInParallel" value="false" />
@@ -271,31 +271,31 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../JavaGaugeHomework/pom.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="54" lean-forward="true" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaGaugeHomework/env/default/java.properties">
+    <entry file="file://$PROJECT_DIR$/env/default/java.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaGaugeHomework/specs/Google search button.spec">
+    <entry file="file://$PROJECT_DIR$/specs/Google search button.spec">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaGaugeHomework/env/default/default.properties">
+    <entry file="file://$PROJECT_DIR$/env/default/default.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaGaugeHomework/src/test/java/GooglePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/GooglePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />

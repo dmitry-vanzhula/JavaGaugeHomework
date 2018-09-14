@@ -1,0 +1,29 @@
+1. //a[text()='FAN PAGE'] 
+# Fan Page link
+
+2. //a[text()='NEED HELP?']
+Need Help link
+
+3. //*[@id='ios']
+# ios
+
+4. //*[@id='cashier_buy']
+# cashier buy button
+
+5. //*[@id='cashier']/form/ul[@class ='select']
+#select offer
+
+6. #logo
+# hof logo
+
+7. #cashier_buy
+# cashier buy button
+
+8. #fanPage
+# fan page
+
+9. #cashier > form > ul
+#select offer
+
+10. #available
+
